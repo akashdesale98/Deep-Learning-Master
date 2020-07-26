@@ -18,3 +18,4 @@ Coming Soon :) ....
 
   * This repo is dedicated solely for the purpose of study, research and grasping extensive knowledge of AI, theoretically and practically. 
   * Open to contributions and guidance :)
+  * Not limited to any specific language or ML framework
