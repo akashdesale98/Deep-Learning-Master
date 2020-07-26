@@ -16,5 +16,5 @@ Coming Soon :) ....
 
 **Note**
 
-  * This repo is dedicated solely for the purpose of study, research and grasping extensive knowledge of AI, theoritically and practically. 
+  * This repo is dedicated solely for the purpose of study, research and grasping extensive knowledge of AI, theoretically and practically. 
   * Open to contributions and guidance :)
