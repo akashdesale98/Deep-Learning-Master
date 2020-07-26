@@ -1,8 +1,6 @@
 # DeepLearning Master
 
-## DeepLearning Basic To Adavance
-
-### Repos Aim 
+## Repos Aim 
 
 To study various research papers on RNN (sequence to sequence modelling) and improving the current mathematical models on <strong>Automatic Text Summarisation</strong>(extractive + abstractive).
 
