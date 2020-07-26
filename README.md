@@ -1,11 +1,11 @@
-# DeepLearning Master
+# DeepLearningMaster
 
 ## Repos Aim 
 
 To study various research papers on RNN (sequence to sequence modelling) and improving the current mathematical models on <strong>Automatic Text Summarisation</strong>(extractive + abstractive).
 
 * Path -
-  1. Revision of Deep Learning (basics to advance)
+  1. Revision of Deep Learning
   2. Study of various research papers and their datasets.
   3. Applying in practice.
   
